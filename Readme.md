@@ -5,7 +5,7 @@
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/doraemon890/count.svg" />
 </p>
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋𝐀𝐍𝐍𝐈𝐄+𝐌𝐔𝐒𝐈𝐂+𝐁𝐎𝐓🖤+🥀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋🧸𝆺𝅥⃝𝘿𝗼𝙧𝙖❜𝙈𝙪𝙨𝙞𝙘≛⃝♥️•๋๋๋๋๋๋๋๋๋๋๋๋๋๋❥︎⏤🖤+🥀"></b></h1>
 
 <p align="center"><a href="https://t.me/JARVIS_V2"><img src="https://telegra.ph/file/58afe55fee5ae99d6901b.jpg" width="600"></a></p>
 
